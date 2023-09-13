@@ -1,0 +1,6 @@
+print("Complete Name: John Vincent Flores")
+print("Course: Bachelor of Science in Computer Science")
+print("Section: CS1E")
+print("Age: 20")
+print("Birthday: June,24,2003")
+print("Complete Home Address: Suniel St. Zone 5, Poblacion, Opol, Misamis Oriental")
